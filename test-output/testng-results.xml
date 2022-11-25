@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="7" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-24T18:40:11 IST" name="Orange HRM Application Test" finished-at="2022-11-24T18:43:02 IST" duration-ms="170223">
+    <groups>
+    </groups>
+    <test started-at="2022-11-24T18:40:11 IST" name="Orange HRM Automation Test" finished-at="2022-11-24T18:43:02 IST" duration-ms="170223">
+      <class name="com.HRM.qa.TestCases.AddEmpPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.HRM.qa.TestCases.AddEmpPageTest@2b71e916]" started-at="2022-11-24T18:41:29 IST" name="SetUp" finished-at="2022-11-24T18:41:47 IST" duration-ms="17812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="Addemp(java.lang.String,java.lang.String)[pri:0, instance:com.HRM.qa.TestCases.AddEmpPageTest@2b71e916]" started-at="2022-11-24T18:41:47 IST" name="Addemp" data-provider="getdata" finished-at="2022-11-24T18:41:59 IST" duration-ms="11587" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ajay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[H C]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addemp -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.HRM.qa.TestCases.AddEmpPageTest@2b71e916]" started-at="2022-11-24T18:41:59 IST" name="TearDown" finished-at="2022-11-24T18:41:59 IST" duration-ms="426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.HRM.qa.TestCases.AddEmpPageTest@2b71e916]" started-at="2022-11-24T18:41:59 IST" name="SetUp" finished-at="2022-11-24T18:42:19 IST" duration-ms="19877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="Addemp(java.lang.String,java.lang.String)[pri:0, instance:com.HRM.qa.TestCases.AddEmpPageTest@2b71e916]" started-at="2022-11-24T18:42:19 IST" name="Addemp" data-provider="getdata" finished-at="2022-11-24T18:42:31 IST" duration-ms="11591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Apoorva]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[S]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addemp -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.HRM.qa.TestCases.AddEmpPageTest@2b71e916]" started-at="2022-11-24T18:42:31 IST" name="TearDown" finished-at="2022-11-24T18:42:31 IST" duration-ms="408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.HRM.qa.TestCases.AddEmpPageTest@2b71e916]" started-at="2022-11-24T18:42:31 IST" name="SetUp" finished-at="2022-11-24T18:42:50 IST" duration-ms="18607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="Addemp(java.lang.String,java.lang.String)[pri:0, instance:com.HRM.qa.TestCases.AddEmpPageTest@2b71e916]" started-at="2022-11-24T18:42:50 IST" name="Addemp" data-provider="getdata" finished-at="2022-11-24T18:43:01 IST" duration-ms="11502" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rohith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[L g]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addemp -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.HRM.qa.TestCases.AddEmpPageTest@2b71e916]" started-at="2022-11-24T18:43:01 IST" name="TearDown" finished-at="2022-11-24T18:43:02 IST" duration-ms="410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.HRM.qa.TestCases.AddEmpPageTest -->
+      <class name="com.HRM.qa.TestCases.HomePageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.HRM.qa.TestCases.HomePageTest@6b2ea799]" started-at="2022-11-24T18:40:49 IST" name="SetUp" finished-at="2022-11-24T18:41:00 IST" duration-ms="10501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="clickpim()[pri:0, instance:com.HRM.qa.TestCases.HomePageTest@6b2ea799]" started-at="2022-11-24T18:41:00 IST" name="clickpim" finished-at="2022-11-24T18:41:04 IST" duration-ms="3768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickpim -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.HRM.qa.TestCases.HomePageTest@6b2ea799]" started-at="2022-11-24T18:41:04 IST" name="TearDown" finished-at="2022-11-24T18:41:04 IST" duration-ms="599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.HRM.qa.TestCases.HomePageTest -->
+      <class name="com.HRM.qa.TestCases.LoginPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.HRM.qa.TestCases.LoginPageTest@313ac989]" started-at="2022-11-24T18:40:11 IST" name="SetUp" finished-at="2022-11-24T18:40:23 IST" duration-ms="11794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="LogoTest()[pri:0, instance:com.HRM.qa.TestCases.LoginPageTest@313ac989]" started-at="2022-11-24T18:40:23 IST" name="LogoTest" finished-at="2022-11-24T18:40:25 IST" duration-ms="1565" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertTrue(Assert.java:56)
+at org.testng.Assert.assertTrue(Assert.java:66)
+at com.HRM.qa.TestCases.LoginPageTest.LogoTest(LoginPageTest.java:33)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.HRM.qa.TestCases.LoginPageTest@313ac989]" started-at="2022-11-24T18:40:25 IST" name="TearDown" finished-at="2022-11-24T18:40:26 IST" duration-ms="825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.HRM.qa.TestCases.LoginPageTest@313ac989]" started-at="2022-11-24T18:40:26 IST" name="SetUp" finished-at="2022-11-24T18:40:36 IST" duration-ms="10331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TitleTest()[pri:0, instance:com.HRM.qa.TestCases.LoginPageTest@313ac989]" started-at="2022-11-24T18:40:36 IST" name="TitleTest" finished-at="2022-11-24T18:40:36 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.HRM.qa.TestCases.LoginPageTest@313ac989]" started-at="2022-11-24T18:40:36 IST" name="TearDown" finished-at="2022-11-24T18:40:37 IST" duration-ms="487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.HRM.qa.TestCases.LoginPageTest@313ac989]" started-at="2022-11-24T18:40:37 IST" name="SetUp" finished-at="2022-11-24T18:40:45 IST" duration-ms="8761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="logintest()[pri:0, instance:com.HRM.qa.TestCases.LoginPageTest@313ac989]" started-at="2022-11-24T18:40:45 IST" name="logintest" finished-at="2022-11-24T18:40:49 IST" duration-ms="3624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.HRM.qa.TestCases.LoginPageTest@313ac989]" started-at="2022-11-24T18:40:49 IST" name="TearDown" finished-at="2022-11-24T18:40:49 IST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.HRM.qa.TestCases.LoginPageTest -->
+      <class name="com.HRM.qa.TestCases.PIMPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.HRM.qa.TestCases.PIMPageTest@411f53a0]" started-at="2022-11-24T18:41:04 IST" name="SetUp" finished-at="2022-11-24T18:41:25 IST" duration-ms="20593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="validateaddemppage()[pri:0, instance:com.HRM.qa.TestCases.PIMPageTest@411f53a0]" started-at="2022-11-24T18:41:25 IST" name="validateaddemppage" finished-at="2022-11-24T18:41:27 IST" duration-ms="1933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateaddemppage -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.HRM.qa.TestCases.PIMPageTest@411f53a0]" started-at="2022-11-24T18:41:27 IST" name="TearDown" finished-at="2022-11-24T18:41:27 IST" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.HRM.qa.TestCases.PIMPageTest -->
+    </test> <!-- Orange HRM Automation Test -->
+  </suite> <!-- Orange HRM Application Test -->
+</testng-results>

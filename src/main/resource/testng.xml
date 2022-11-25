@@ -1,0 +1,16 @@
+<suite name="Orange HRM Application Test">
+	
+	<listeners>
+		<listener class-name="com.HRM.qa.ExtentReport.ExtentReporterNG"/>
+	</listeners>
+	
+	<test name="Orange HRM Automation Test">
+		<classes>
+			<class name="com.HRM.qa.TestCases.LoginPageTest"/>
+			<class name="com.HRM.qa.TestCases.HomePageTest"/>
+			<class name="com.HRM.qa.TestCases.PIMPageTest"/>
+			<class name="com.HRM.qa.TestCases.AddEmpPageTest"/>
+			
+		</classes>
+	</test>
+</suite>
